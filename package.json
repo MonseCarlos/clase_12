@@ -9,6 +9,7 @@
   "author": "Raquel Monserrat Carlos <raquel_monserrat@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "http": "0.0.0"
+    "http": "0.0.0",
+    "url": "^0.11.0"
   }
 }
